@@ -2,3 +2,5 @@ Here is some text
 The current time is 2:50pm
 We are going to add some more text
 and then we are going to make a commit after saving once more
+
+We are making another change here to test a commit.
